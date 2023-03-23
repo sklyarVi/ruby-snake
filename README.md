@@ -18,9 +18,11 @@ to install all system libraries you need, use the following commands:
 
 
 After installing all required libraries, you need to install gosu gem:
+
 <code>gem install gosu</code>
 
 Now you can run the Game:
+
 <code>ruby snake.rb</code>
 
 #Enjoy!
